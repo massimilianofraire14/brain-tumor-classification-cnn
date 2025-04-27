@@ -68,7 +68,7 @@ The VGG16-based transfer learning model significantly outperformed the custom 3-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/brain-tumor-classification-cnn.git
+git clone https://github.com/massimilianofraire14/brain-tumor-classification-cnn.git
 cd brain-tumor-classification-cnn
 ```
 
