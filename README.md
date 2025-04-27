@@ -14,6 +14,7 @@ We apply a deep learning approach, leveraging a pre-trained VGG16 model, to clas
 
 ### Dataset
 - **Source**: 7023 human brain MRI images categorized into Glioma, Meningioma, No Tumor, and Pituitary classes.
+- **Download**: [Brain Tumor MRI Dataset by Masoud Nickparvar](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 - **Preprocessing**: 
   - Duplicate removal with MD5 hashing
   - Resized to 224x224x3
@@ -102,4 +103,4 @@ This project is licensed under the MIT License.
 > 3. Chmiel, W., et al. (2023). Sensors.
 > 4. Liu, L., et al. (1970). University of Illinois Urbana-Champaign.
 
-# brain-tumour-classification-cnn
+
